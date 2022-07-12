@@ -8,4 +8,4 @@
 - I regularly post on LinkedIn regarding AI-ML and allied topics. I would be very happy if you [follow](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) me there. 😊
 
 
-Thank you all so much 🙏
+Thank you 🙏
