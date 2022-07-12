@@ -1,8 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh][website]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh]
 
 ## I'm a Data Scientist and a Teacher
 
@@ -14,8 +10,6 @@
 - Counsel for Mid-career transition to Data Science. My own transition [here](https://www.choosetothinq.com/blog/2020/12/7/ctq-smartcast-mid-career-transitions-to-ai-machine-learning-with-yogesh-kulkarni)
 - For any technical or career coaching queries, my office hours are Saturdays 2 to 5 pm (India time), send email for appointemnt to my firstnamelastname at yahoo dot com  [details](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/)
 - I regurlary post on LinkedIn regaridng AI-ML and allied topics. I would be very happy if you [follow](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) me there 😊
-
----
 
 <!---
 
