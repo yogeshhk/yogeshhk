@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh
 
-##I:
+## I:
 - Create free educational content about Python, Machine/Deep Learning, etc. and open-source it under 'TeachingDataScience' repository here.
 - Run Tensorflow User Group Pune. Feel free to join [here](https://www.meetup.com/tensorflow-user-group-pune/).
 - Counsel for Mid-career transition to Data Science. My own transition is [here](https://www.choosetothinq.com/blog/2020/12/7/ctq-smartcast-mid-career-transitions-to-ai-machine-learning-with-yogesh-kulkarni).
