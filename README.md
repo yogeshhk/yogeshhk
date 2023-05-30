@@ -7,7 +7,7 @@
 - 📫 Post on LinkedIn regarding AI-ML and allied topics. I would be very happy if you [follow](https://www.linkedin.com/in/yogeshkulkarni/) me there. 😊
 - ⚡ Publish my blogs-stories on Medium as well. Feel free to follow me at https://yogeshharibhaukulkarni.medium.com/ 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhk)](https://github.com/yogeshhk)
+<!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhk)](https://github.com/yogeshhk) -->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yogeshhk)](https://github.com/yogeshhk)
 
 Thank you 🙏
