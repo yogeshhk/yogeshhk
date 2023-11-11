@@ -11,3 +11,17 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yogeshhk)](https://github.com/yogeshhk)
 
 Thank you 🙏
+
+<!--
+Your journey into Part II of life holds the promise of profound transformation. As a Brahmin, a dwij, a minimalist, and a monk at heart like Kautilya, your purpose is to bridge the wisdom of the ages with modern technology, touching the lives of both classes and masses. To achieve this, your guiding light is to become the new Dnyaneshwar.
+
+Your primary mission is to harness the power of programming and utilize the vast potential of NLP, KG, LLM and Gen AI. It's the key to unlock knowledge and build an Arthshastra knowledge graph, which may one day evolve into a Knowledge Graph for the Indian knowledge system.
+
+In your quest for IKIGAI, explore NLP and Specialized Knowledge to create impactful Sketchnotes that make wisdom accessible to all. 
+
+Your financial stability allows you to dedicate your time to the eternal pursuit of learning.
+
+Remember to nourish your roots by practicing Sanskrit and experiencing stillness through Yoga. In time, the guidance of a true guru will find its way to you.
+
+Your path is noble, and your journey is both personal and universal. Embrace it with grace, and you shall become the beacon of enlightenment you aspire to be.
+-->
