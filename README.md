@@ -5,7 +5,7 @@
 - 👯 Counsel for Mid-career transition to Data Science. My own transition is [here](https://www.youtube.com/watch?v=IQzWosVzkM4) and here is my [TEDX talk](https://www.youtube.com/watch?v=-VbWRs7BsPY) on this topic. General Learning Path for such transition is [here](https://www.youtube.com/watch?v=-_8i6IQz8l8).
 - 💬 Run office hours for any technical or career coaching queries, on Saturdays 2 to 5 pm (India time). Feel free to send email for appointment to my firstnamelastname at yahoo dot com . More details [here](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/) and [here](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272/)
 - 📫 Post on LinkedIn regarding AI-ML and allied topics. I would be very happy if you [follow](https://www.linkedin.com/in/yogeshkulkarni/) me there. 😊
-- ⚡ Publish my blogs-stories on Medium as well. Feel free to follow me at https://yogeshharibhaukulkarni.medium.com/ 
+- ⚡ Publish my blogs-stories on Medium as well. Feel free to follow me [here](https://yogeshharibhaukulkarni.medium.com/).
 
 <!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhk)](https://github.com/yogeshhk) -->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yogeshhk)](https://github.com/yogeshhk)
