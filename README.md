@@ -15,10 +15,10 @@
 
 Graphs are everywhere—social networks, molecular structures, geometric shapes, and more. But what happens when we take graphs a step further? **Knowledge Graphs** bring us even closer to modeling reality, unlocking new AI possibilities. 🚀  
 
-Here's what I'm currently exploring in this space:  
-✅ **Graph RAG (Retrieval Augmented Generation)** – Retrieving relational contexts beyond similarity, building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) on Indic wisdom.
-✅ **Graph Neural Networks (GNNs)** – Developing invariant representations for tasks like dimensionality reduction - [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
-✅ **Graph-based Agents** – Automating workflows with intelligent agents, potential MicroSaaS idea 💡, that's [here](https://github.com/yogeshhk/Sarvadnya/tree/master/src/qa_automation_langchain)  
+Here's what I'm currently exploring in this space: 
+- ✅ **Graph RAG (Retrieval Augmented Generation)** – Retrieving relational contexts beyond similarity, building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) on Indic wisdom.
+- ✅ **Graph Neural Networks (GNNs)** – Developing invariant representations for tasks like dimensionality reduction - [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
+- ✅ **Graph-based Agents** – Automating workflows with intelligent agents, potential MicroSaaS idea 💡, that's [here](https://github.com/yogeshhk/Sarvadnya/tree/master/src/qa_automation_langchain)  
 
 
 Thank you 🙏
