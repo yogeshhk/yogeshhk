@@ -18,15 +18,15 @@ To ensure effective collaboration, your organization should have an in-house Dat
 ## Engagement Model
 
 ### 🤝 Pilot & Contract
-- **Pilot Phase:** A 1-month trial to assess compatibility and alignment.
+- **Pilot Phase:** A 1-month paid trial to assess compatibility and alignment.
 - **Annual Contract:** Engagement extends yearly based on pilot success.
 
 ### ⏰ Time Commitment & Charges
 - **Advisory Services:** Retainership model, $250/hour; minimum 8 hours/month (~₹1.6 lakh/month).
 - **Training Programs:** ₹2000/hour/person; minimum 10 participants, 8 hours/month.
-- **Single Talks:** $500 for an hour-long standalone session/talk.
+- **Single Talk:** $500 for an hour-long standalone session/talk.
 - **Hiring Interviews:** Charge 1/4th of the monthly salary fixed; an additional 1/4th if the candidate is selected.
-<!-- - **Full-Time Advisory:** $100/hour; minimum 1-year commitment. -->
+- **Full-Time Advisory:** $100/hour; minimum 1-year commitment. 
 
 ---
 
