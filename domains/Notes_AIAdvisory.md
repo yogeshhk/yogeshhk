@@ -1,4 +1,4 @@
-# AI Advisory Service
+# AI Advisory/Consultancy
 
 Artificial Intelligence (AI) is transforming industries at an unprecedented pace. However, navigating the complexities of AI adoption and integration requires expert guidance. With a decent understanding of AI related technologies and years of hands-on experience, I provide organizations with the strategic-tactical advice they need to unlock their full potential in the AI domain.
 
@@ -22,10 +22,8 @@ To ensure effective collaboration, your organization should have an in-house Dat
 - **Annual Contract:** Engagement extends yearly based on pilot success.
 
 ### ⏰ Time Commitment & Charges
-- **Pilot month**: ₹2000/hour ~ $250/hour minimum 8 hours
+- **Pilot Phase**: ₹2000/hour ~ $250/hour minimum 8 hours
 - **Advisory Services:** Retainership model (₹1250/hour ~ $150/hour; minimum 8 hours/month (~₹1 lakh/month). 
-- **Training Programs:** ₹1250/hour/person; minimum 10 participants, 8 hours/month.
-- **Single Talk:** ₹40000/- ~ $500 for an hour-long standalone session/talk.
 - **Hiring Interviews:** Charge 1/4th of the monthly salary fixed; an additional 1/4th if the candidate is selected.
 - **Full-Time Advisory:** ₹1000 ~ $100/hour; minimum 1-year commitment. 
 
@@ -46,7 +44,6 @@ To ensure effective collaboration, your organization should have an in-house Dat
 - **YouTube:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLaTX75s8-K32lYTWtqASMHgXMLGskDq0x)  
 - **Social Saturdays:** [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272)
 
----
+Feel free to reach out via email at: `my firstnamelastname at yahoo dot com`
 
-**Contact me today** to accelerate your AI journey with expert guidance and a strategic edge.
-
+Thank you! 🙏

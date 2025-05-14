@@ -1,25 +1,42 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh
 
-## I:
-- 🤖 Run Advisory Service helping organizations in their AI (Artificial Intelligence) journey. More details [here](./domains/Notes_AIAdvisory.md)
-- 🌱 Create free educational content about Python, Machine/Deep Learning, etc. and open-source it under 'TeachingDataScience' repository [here](https://github.com/yogeshhk/TeachingDataScience).
-- 👯 Counsel for Mid-career transition to Data Science. My own transition is [here](https://www.youtube.com/watch?v=IQzWosVzkM4) and here is my [TEDX talk](https://www.youtube.com/watch?v=-VbWRs7BsPY) on this topic. General Learning Path for such transition is [here](https://www.youtube.com/watch?v=-_8i6IQz8l8).
-- 💬 Run office hours for any technical or career coaching queries, on Saturdays 2 to 5 pm (India time). Feel free to send email for appointment to my firstnamelastname at yahoo dot com . More details [here](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/) and [here](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272/)
-- 📫 Post on LinkedIn regarding AI-ML and allied topics. I would be very happy if you [follow](https://www.linkedin.com/in/yogeshkulkarni/) me there. 😊
-- ⚡ Publish my blogs-stories on Medium as well. Feel free to follow me [here](https://yogeshharibhaukulkarni.medium.com/).
+## I am involved in:
 
-<!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhk)](https://github.com/yogeshhk) -->
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=yogeshhk)](https://github.com/yogeshhk)
+### 🤖 AI Advisory Services
+I run an Artificial Intelligence (AI) advisory service in the following modes:
 
-### Prominent Domain: Graphs with AI
+* **Consultancy**: Helping organizations stay up to date with the rapidly evolving AI landscape. 👉 [Details (including commercials)](./domains/Notes_AIAdvisory.md)
+* **Training**: Helping individuals stay current with AI and data science trends.  👉 [Details (including commercials)](./domains/Notes_AITraining.md). The educational content used in training—covering Python, Machine Learning, Deep Learning, etc.—has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
 
-Graphs are everywhere—social networks, molecular structures, geometric shapes, and more. But what happens when we take graphs a step further? **Knowledge Graphs** bring us even closer to modeling reality, unlocking new AI possibilities. 🚀  
+### 🔬 Research and Collaboration
+I actively engage in personal research and collaborations with academic and industry partners on topics such as:
 
-Here's what I'm currently exploring in this space: 
-- ✅ **Graph RAG (Retrieval Augmented Generation)** – Retrieving relational contexts beyond similarity, building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) on Indic wisdom.
-- ✅ **Graph Neural Networks (GNNs)** – Developing invariant representations for tasks like dimensionality reduction - [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
-- ✅ **Graph-based Agents** – Automating workflows with intelligent agents, potential MicroSaaS idea 💡, that's [here](https://github.com/yogeshhk/Sarvadnya/tree/master/src/qa_automation_langchain)  
+* ✅ **Graph RAG (Retrieval Augmented Generation)**
+  Retrieving relational contexts beyond simple similarity; building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) focused on Indic wisdom.
+* ✅ **Graph Neural Networks (GNNs)**
+  Creating invariant representations for tasks like dimensionality reduction — see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
+* ✅ **Graph-based Agents**
+  Automating workflows with intelligent agents; a potential MicroSaaS idea 💡 — [Explore it here](https://github.com/yogeshhk/Sarvadnya/tree/master/src/qa_automation_langchain)
+
+### 🙌 Social Contributions (Pro Bono)
+I strongly believe in giving back to society and raising public awareness about AI through:
+
+* 👯 **Mid-Career Transition Counseling (to Data Science)**
+  * My own transition story: [Part 1](https://www.youtube.com/watch?v=IQzWosVzkM4) | [TEDx Talk](https://www.youtube.com/watch?v=-VbWRs7BsPY)
+  * General learning path: [Watch here](https://www.youtube.com/watch?v=-_8i6IQz8l8)
+* 💬 **Open Office Hours** Saturdays, 1:30–3:30 PM IST — for technical or career coaching.
+  👉 [Info 1](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/) | [Info 2](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272/)
+* 📫 **LinkedIn** I regularly post about AI/ML and related topics. I’d love it if you [follow me](https://www.linkedin.com/in/yogeshkulkarni/) there. 😊
+* ⚡ **Medium Blogs**  Read or follow my writings [here](https://yogeshharibhaukulkarni.medium.com/)
+* 🎤 **Public Talks**  I speak at various forums and events. Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLaTX75s8-K31QUTU1h12Tzjuxl5nXjAG7) of talks.
+* 🧑‍🏫 **Mentorship**
+  * Engineering students (internships)
+  * Aspirants on the 'Road to GDE (Google Developer Expert)'
+  * Engineering colleges (as BoS member for syllabus design)
+
+Feel free to reach out via email at: `my firstnamelastname at yahoo dot com`
+
+Thank you! 🙏
 
 
-Thank you 🙏
 
