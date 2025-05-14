@@ -13,28 +13,21 @@ My familiarity spans across multiple domains, including Data Science, Artificial
 ### 📍 Team Requirements
 To ensure effective collaboration, your organization should have an in-house Data Science team capable of executing AI projects. I prefer working on challenging domains and with dynamic teams, fostering an environment of mutual learning and innovation.
 
----
-
 ## Engagement Model
 
 ### 🤝 Pilot & Contract
 - **Pilot Phase:** A 1-month paid trial to assess compatibility and alignment.
-- **Annual Contract:** Engagement extends yearly based on pilot success.
+- **Annual Contract:** Retainership engagement extends yearly based on pilot success.
 
 ### ⏰ Time Commitment & Charges
 - **Pilot Phase**: ₹2000/hour ~ $250/hour minimum 8 hours
 - **Advisory Services:** Retainership model (₹1250/hour ~ $150/hour; minimum 8 hours/month (~₹1 lakh/month). 
 - **Hiring Interviews:** Charge 1/4th of the monthly salary fixed; an additional 1/4th if the candidate is selected.
-- **Full-Time Advisory:** ₹1000 ~ $100/hour; minimum 1-year commitment. 
-
----
 
 ## Why Partner With Me?
 - **Proven Expertise:** Years of experience in AI, ML/DL, NLP, LLMs, and Generative AI.  
 - **Strategic Insights:** Tailored advice to help organizations achieve their AI goals effectively.  
 - **Focused Engagement:** Dedicated time and attention to address your unique challenges in the Retainership model.
-
----
 
 ## Learn More About Me
 - **LinkedIn:** [linkedin.com/in/yogeshkulkarni](https://www.linkedin.com/in/yogeshkulkarni/)  

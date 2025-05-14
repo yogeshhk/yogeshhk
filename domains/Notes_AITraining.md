@@ -5,7 +5,7 @@ Artificial Intelligence (AI) is transforming industries at an unprecedented pace
 ## 📘 Engagement Approach
 
 ### 🌐 Scope of Work
-I provide both corporate and educational training. Engagements can be conducted either **in-person in Pune** or **online**, offering flexibility to suit your organizational needs.
+I provide both corporate and institutional training. Engagements can be conducted either **in-person in Pune** or **online**, offering flexibility to suit your organizational needs.
 
 ### 💻 Expertise Domains
 I offer training across a wide spectrum of AI-related domains, including:
@@ -14,7 +14,6 @@ I offer training across a wide spectrum of AI-related domains, including:
 * Machine Learning (ML)
 * Deep Learning (DL)
 * Natural Language Processing (NLP)
-* Large Language Models (LLMs)
 * Generative AI
 
 ### 📍 Team Requirements
@@ -31,16 +30,14 @@ To make the most of the sessions, participants should ideally have:
 
 ### ⏰ Time Commitment & Pricing
 * **Corporate Seminar**: ₹40,000 (\~\$500) for a one-hour standalone session
-* **Corporate Workshop/Courses**: ₹1,250/hour/person
-  * Minimum 10 participants
-  * Minimum 8 hours per month
+* **Corporate Workshop/Courses**: ₹1,250/hour/person. Minimum 10 participants. Minimum 8 hours per month
 * **Educational Institutes**: Charges as per standard institutional rates
 
 ## 🌟 Why Partner With Me?
 * **Proven Expertise**
-  Years of experience in both corporate and academic environments, teaching and training in AI, ML/DL, NLP, LLMs, and Generative AI.
+  Years of experience in both corporate and academic environments, teaching-training in AI, ML/DL, NLP, and Generative AI.
 * **Strong Academic & Professional Background**
-  Over 20 years of professional experience and advanced degrees (BE, MS, PhD) in Engineering.
+  Over 20 years of professional experience and degrees (BE, MS, PhD) in Engineering.
 * **Focused Engagement**
   Customized, hands-on sessions designed to address the specific needs and goals of your team or organization.
 
