@@ -1,11 +1,11 @@
-## Maiboli: Generative AI for Indic Languages (Marathi-centric)
+## Maibolee: Generative AI for Indic Languages (Marathi-centric)
 
 ### **Concept Summary**
 
-- **Maiboli**:
+- **Maibolee**:
     - *m* = Marathi
     - *ai* = Artificial Intelligence
-    - *boli* = Language (spoken/in practice)
+    - *bolee* = Language (spoken/in practice)
 - **Mission**: Democratize AI for the masses, especially in Indic languages, with a focus on Marathi.
 - **IKIGAI**: Social impact via MicroSaaS—serving society, contributing to the nation, and creating sustainable earnings.
 
