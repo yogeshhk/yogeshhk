@@ -35,7 +35,7 @@ To make the most of the sessions, participants should ideally have:
 
 ## 🌟 Why Partner With Me?
 * **Proven Expertise**
-  Years of experience in both corporate and academic environments, teaching-training in AI, ML/DL, NLP, and Generative AI.
+  Years of experience in both corporate and academic environments, teaching-training in AI, ML/DL, NLP, and Gen AI.
 * **Strong Academic & Professional Background**
   Over 20 years of professional experience and degrees (BE, MS, PhD) in Engineering.
 * **Focused Engagement**
