@@ -13,10 +13,10 @@ I actively engage in personal research and collaborations with academic and indu
 
 * ✅ **Graph RAG (Retrieval Augmented Generation)**
   Retrieving relational contexts beyond simple similarity; building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) focused on Indic wisdom.
-* ✅ **Graph Neural Networks (GNNs)**
+* ✅ **Geometric Deep Learning**
   Creating invariant representations for tasks like dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
-* ✅ **Graph-based Agents**
-  Automating workflows with intelligent agents; a potential MicroSaaS idea 💡, see [QA agent](https://github.com/yogeshhk/Sarvadnya/tree/master/src/qa_automation_langchain)
+* ✅ **Indic Generative AI**
+  RAG (Retrieval Augmented Generation) and Fine-tuning on Marathi data 💡, see [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_vichar-chitre)
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
