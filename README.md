@@ -5,18 +5,18 @@
 ### 🤖 AI Advisory Services
 I run an Artificial Intelligence (AI) advisory service in the following modes:
 
-* **Consultancy**: Helping organizations stay up to date with the rapidly evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md)
-* **Training**: Helping individuals stay current with AI and data science trends.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
+* **Consultancy**: Helping organizations in the evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md)
+* **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
 
 ### 🔬 Research and Collaboration
 I actively engage in personal research and collaborations with academic and industry partners on topics such as:
 
 * ✅ **Graph RAG (Retrieval Augmented Generation)**
-  Retrieving relational contexts beyond simple similarity; building a [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra) focused on Indic wisdom.
+  Retrieving relational contexts beyond simple similarity; [Ask Yogasutra](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra).
 * ✅ **Geometric Deep Learning**
   Creating invariant representations for tasks like dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
 * ✅ **Indic Generative AI**
-  RAG (Retrieval Augmented Generation) and Fine-tuning on Marathi data 💡, see [chatbot](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_vichar-chitre)
+  RAG and Fine-tuning using Marathi data 💡, see [Ask Vichar-Chitre](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_vichar-chitre)
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
