@@ -56,3 +56,9 @@ Integrates social impact and personal fulfillment by giving back to society whil
 - [Navarasa Dataset Example](https://huggingface.co/datasets/navarasa)
 
 
+## **Key Repositories**
+- [Gemma2 9B Fine-Tuned for English-Marathi Translation](https://github.com/Devsam2898/Gemma2-Marathi)
+- [AI Meets Antiquity: Fine-Tuning Gemma-3 on Heritage Texts with Unsloth & Lightning AI](https://pub.towardsai.net/ai-meets-antiquity-fine-tuning-gemma-3-on-heritage-texts-with-unsloth-lightning-ai-f28057f3200a)
+- [Gemma2 Goes Multilingual: Fine-Tuning for English & Marathi Translations](https://medium.com/@storyteller-dev/gemma2-goes-multilingual-fine-tuning-for-english-marathi-translations-f190243a5bd7)
+- [Peshwai Historian AI – Marathi Chatbot](https://github.com/Devsam2898/Gradio-Gemma3-Peshwa)
+- [ TinyStories Regional - VizuaraAI- Raj Dandekar](https://github.com/VizuaraAI/Tiny-Stories-Regional) A framework for development of Small Language Models for Indian regional languages, serving both as a practical alternative to LLMs and as a foundation for comparative analysis of tokenization strategies, machine translation performance, and linguistic complexity
