@@ -16,6 +16,7 @@ To ensure effective collaboration, your organization should have an in-house Dat
 ## Engagement Model
 
 ### 🤝 Time-line modes
+- **Exploratory Call:** Gather high-level requirements as detailed [here](./Notes_AIAdvisory_explore.md)
 - **Awareness Talk:** Introductory session on AI/ML for leadership or technical teams.
 - **Pilot Phase:** A one-month paid trial to assess compatibility and alignment.
 - **Annual Contract:** Yearly retainership, contingent on a successful pilot phase.
