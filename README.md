@@ -10,11 +10,10 @@ I run an Artificial Intelligence (AI) advisory service in the following modes:
 
 ### 🔬 Research and Collaboration
 I actively engage in personal research and collaborations with academic and industry partners on topics such as:
-
-* ✅ **Graph RAG (Retrieval Augmented Generation)**
-  Retrieving relational contexts beyond similarity; [Yogasutra](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra).
 * ✅ **Geometric Deep Learning**
   Creating invariant representations for dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN)
+* ✅ **Graph RAG (Retrieval Augmented Generation)**
+  Retrieving relational contexts beyond similarity; [Yogasutra](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_yogasutra).
 * ✅ **Indic Generative AI**
   RAG and Fine-tuning using Marathi data 💡, see [Vichar-Chitre](https://github.com/yogeshhk/Sarvadnya/tree/master/src/ask_vichar-chitre)
 
@@ -28,6 +27,7 @@ I strongly believe in giving back to society and raising public awareness about 
 * ⚡ **Medium Blogs**  Read or follow my writings [here](https://yogeshharibhaukulkarni.medium.com/)
 * 🎤 **Public Talks**  I speak at various forums and events. Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLaTX75s8-K31QUTU1h12Tzjuxl5nXjAG7) of talks.
 * 🧑‍🏫 **Advisory** Internship for eng students, aspirants of'Road to GDE (Google Developer Expert)' and member of BoS (Board of Studies)
+* 📫 **AI-Rupe** A compilation of my articles, in Marathi, on Artificial Intelligence, in the from of a book. Available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://direct.notionpress.com/in/read/ai-rupe/), [Notion Press](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), etc.
 
 Feel free to reach out via email at: `my firstnamelastname at yahoo dot com`
 
