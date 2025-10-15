@@ -16,16 +16,15 @@ To ensure effective collaboration, your organization should have an in-house Dat
 ## Engagement Model
 
 ### 🤝 Time-line modes
-- **Exploratory Call:** Gather high-level requirements as detailed [here](./Notes_AIAdvisory_explore.md)
 - **Awareness Talk:** Introductory session on AI/ML for leadership or technical teams.
-- **Pilot Phase:** A one-month paid trial to assess compatibility and alignment.
+- **Pilot Phase:** A one-month paid trial to assess compatibility and alignment. Gather high-level requirements as detailed [here](./Notes_AIAdvisory_explore.md)
 - **Annual Contract:** Yearly retainership, contingent on a successful pilot phase.
 
 ### ⏰ Time Commitment & Charges
 - **Awareness Talk:** ₹40,000/- for a ~1-hour session.
-- **Pilot Phase**: ₹20,000/hour (~ $250/hour); minimum 8 hours (~₹1.6 lakh).
-- **Advisory Services:** Retainership model ₹12,500/hour (~ $150/hour); minimum 8 hours/month (~₹1 lakh/month). 
-- **Hiring Interviews:** Charged at 25% of the candidate’s fixed monthly salary; an additional 25% if the candidate is selected.
+- **Pilot Phase**: ₹20,000/hour (~ $250/hour); minimum 8 hours (~₹1.6 lakh) for one month.
+- **Advisory Services:** Retainership model ₹12,500/hour (~ $150/hour); minimum 8 hours/month (~₹1 lakh/month). Annual contract.
+<!--  **Hiring Interviews:** Charged at 25% of the candidate’s fixed monthly salary; an additional 25% if the candidate is selected. -->
 
 ## Why Partner With Me?
 - **Proven Expertise:** Years of experience in AI, ML/DL, NLP, LLMs, and Generative AI.  
