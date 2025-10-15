@@ -25,12 +25,13 @@ To make the most of the sessions, participants should ideally have:
 
 ### 🤝 Duration-Based Offerings
 * **Seminar**: A 1-hour paid session with a Q\&A segment. *(No hands-on activities)*
-* **Workshop**: A full-day (8-hour) session that includes hands-on exercises.
+* **Workshop**: A half/full-day (4/8 hours) session that includes hands-on exercises.
 * **Courses**: 40 hours of instruction (spread across 5 full days or a semester), including hands-on projects and homework.
 
 ### ⏰ Time Commitment & Pricing
 * **Corporate Seminar**: ₹40,000 (\~\$500) for a one-hour standalone session
 * **Corporate Workshop/Courses**: ₹1,250/hour/person. Minimum 10 participants. Minimum 8 hours per month
+* **Conference Workshops**: ₹1,250/hour/person. Minimum 10 participants, if beyond, then Profit share of 50% whichever is higher. Facility+Faculty charges are in the costs. Marketing is in the orgnizer's shares.
 * **Educational Institutes**: Charges as per standard institutional rates
 
 ## 🌟 Why Partner With Me?
