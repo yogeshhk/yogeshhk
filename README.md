@@ -19,7 +19,7 @@ I actively engage in personal research and collaborations with academic and indu
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
-* 🧑‍🏫 **Pune AI Community** Founder of a social group dedicated to disseminating AI-related knowledge, both online and offline (for the Pune region).[website](http://puneaicommunity.org/)
+* 🧑‍🏫 **Pune AI Community** Founder of a social group dedicated to disseminating AI-related knowledge, both online and offline (Pune) [website](http://puneaicommunity.org/).
 * 👯 **Mid-Career Transition Counseling (to Data Science)**. [My Story](https://www.youtube.com/watch?v=IQzWosVzkM4) | [TEDx Talk](https://www.youtube.com/watch?v=-VbWRs7BsPY) | [Path](https://www.youtube.com/watch?v=-_8i6IQz8l8)
 * 💬 **Open Office Hours** Saturdays, 1:30–3:30 PM IST — for technical or career coaching.
   👉 [Info 1](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/) | [Info 2](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272/)
