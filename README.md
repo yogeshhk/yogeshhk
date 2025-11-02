@@ -7,6 +7,7 @@ I run an Artificial Intelligence (AI) advisory service in the following modes:
 
 * **Consultancy**: Helping organizations in the evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md)
 * **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
+* **Recruitment**: Helping organizations in the hiring in this AI first landscape. 👉 More details (including commercials) [here](./domains/Notes_AIRecruitment.md)
 
 ### 🔬 Research and Collaboration
 I actively engage in personal research and collaborations with academic and industry partners on topics such as:
