@@ -12,7 +12,7 @@ We assist organizations in hiring the right talent for AI, ML, Data Science, and
 Our services include:
 
 * **Referrals:** We identify and recommend suitable candidates across all levels, from interns and fresh graduates to experienced professionals.
-* **L1 Interview Offloading:** We conduct first-round technical interviews (L1) to ensure only high-quality candidates reach your internal teams.
+* **Interview Offloading:** We conduct AI technical interviews to ensure only high-quality candidates reach your recruitment process.
 
 You can engage with us for either or both services, depending on your in-house hiring setup.
 
@@ -40,11 +40,11 @@ We ensure candidates are evaluated not just for skills but also for problem-solv
 2. **Job Description (JD) & CTC Details:**
    Before suggesting candidates, we request complete JD(s) and indicative compensation details.
 
-3. **Candidate Identification & L1 Interviews:**
-   We source, screen, and interview candidates (L1 done by us). Shortlisted profiles are shared with you.
+3. **Candidate Identification & Interviews:**
+   We source, screen, and interview candidates (typically first-round ie L1 done by us). Shortlisted profiles are shared with you.
 
-4. **L2 Trigger:**
-   Once your team schedules an L2 (next-round) interview for any profile we’ve forwarded, **our L1 interview charges become payable**, regardless of where the candidate was originally sourced from.
+4. **Next Step Trigger:**
+   Once your team selects the candiate for further steps for any profile we’ve forwarded, **our Interview charges become payable**, regardless of where the candidate was originally sourced from.
 
 5. **Successful Hire:**
    If the candidate we recommended is hired, we charge an additional fee equal to **half the monthly CTC**.
@@ -53,8 +53,8 @@ We ensure candidates are evaluated not just for skills but also for problem-solv
 
 ### ⏰ Time Commitment & Charges
 
-* **L1 Interview:** ₹20,000/hour (~$250/hour)
-* **Referral Services:** Half a month’s CTC (in addition to the L1 interview charges)
+* **Interview:** ₹20,000/- for an hour (~$250)
+* **Referral Services:** Half a month’s CTC (in addition to the AI Interview charges)
 
 ---
 
@@ -71,8 +71,8 @@ To ensure transparency and prevent disputes over candidate origination:
 3. **Unique ID Tracking:**
    Each profile we forward carries a unique candidate code that must be retained through your internal ATS (Applicant Tracking System) for traceability.
 
-4. **L2 Trigger Confirmation:**
-   As soon as your team schedules L2 for a candidate we screened, the L1 interview charge applies automatically, independent of final selection.
+4. **Next Step Trigger Confirmation:**
+   As soon as your team selects the candidate we screened, the Interview charge applies automatically, independent of final selection.
 
 5. **Hiring Confirmation Clause:**
    In our agreement, an explicit clause clarifies that if a candidate we referred (with timestamped proof) is hired within **6 months** of submission, our success fee (half the monthly CTC) applies, even if rediscovered later via another channel.
@@ -81,7 +81,7 @@ To ensure transparency and prevent disputes over candidate origination:
 
 ## Why Partner With Us?
 
-* **Technical Rigor:** L1 interviews are conducted by experienced AI professionals, not generalist recruiters.
+* **Technical Rigor:** Interviews are conducted by experienced AI professionals, not generalist recruiters.
 * **Time Efficiency:** Your internal teams focus only on qualified profiles.
 * **Reduced Noise:** Pre-screened candidates aligned to your JD.
 * **Fair & Transparent Terms:** Clear contractual and procedural safeguards.
@@ -93,4 +93,5 @@ To ensure transparency and prevent disputes over candidate origination:
 
 For partnership inquiries, please reach out via email at:
 `my firstnamelastname at yahoo dot com`
+
 
