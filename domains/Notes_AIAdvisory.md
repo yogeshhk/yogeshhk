@@ -21,9 +21,9 @@ To ensure effective collaboration, your organization should have an in-house Dat
 - **Annual Contract:** Yearly retainership, contingent on a successful pilot phase.
 
 ### ⏰ Time Commitment & Charges
-- **Awareness Talk:** ₹40,000/- for a ~1-hour session.
-- **Pilot Phase**: ₹20,000/hour (~ $250/hour); minimum 8 hours (~₹1.6 lakh) for one month.
-- **Advisory Services:** Retainership model ₹12,500/hour (~ $150/hour); minimum 8 hours/month (~₹1 lakh/month). Annual contract.
+- **Awareness Talk:** ₹40,000/- (~$500) for a ~1-hour session.
+- **Pilot Phase**: ₹25,000/hour (~ $300/hour); minimum 8 hours (~₹2 lakhs) for one month.
+- **Advisory Services:** Retainership model ₹15,000/hour (~ $200/hour); minimum 8 hours/month (~₹1.2 lakhs/month), proportionate thereafter, for Annual contract.
 <!--  **Hiring Interviews:** Charged at 25% of the candidate’s fixed monthly salary; an additional 25% if the candidate is selected. -->
 
 ## Why Partner With Me?
