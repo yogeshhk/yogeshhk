@@ -5,7 +5,7 @@
 ### 🤖 AI Advisory Services
 I run an Artificial Intelligence (AI) advisory service in the following modes:
 
-* **Consultancy**: Helping organizations in the evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md)
+* **Consultancy**: Helping organizations in the evolving AI landscape. Also a part of [Expert Networks](./domains/Notes_ExpertNetworks.md). 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md).
 * **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
 * **Recruitment**: Helping organizations in hiring pre-screened candidates with AI skills. 👉 More details (including commercials) [here](./domains/Notes_AIRecruitment.md)
 
@@ -20,7 +20,7 @@ I actively engage in personal research and collaborations with academic and indu
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
-* 🧑‍🏫 **Pune AI Community** Social group dedicated to disseminating AI-related knowledge, both online and offline (Pune) [website](http://puneaicommunity.org/).
+* 🧑‍🏫 **Pune AI Community** Social group dedicated to disseminating AI-related knowledge, both online and offline (Pune) [website](http://puneaicommunity.org/), [GitHub](https://github.com/puneaicommunity/puneaicommunity).
 * 👯 **Mid-Career Transition Counseling (to Data Science)**. [My Story](https://www.youtube.com/watch?v=IQzWosVzkM4) | [TEDx Talk](https://www.youtube.com/watch?v=-VbWRs7BsPY) | [Path](https://www.youtube.com/watch?v=-_8i6IQz8l8)
 * 💬 **Open Office Hours** Saturdays, 1:30–3:30 PM IST — for technical or career coaching.
   👉 [Info 1](https://www.linkedin.com/feed/update/urn:li:activity:6913670687291240448/) | [Info 2](https://www.linkedin.com/feed/update/urn:li:activity:7147062487174070272/)
