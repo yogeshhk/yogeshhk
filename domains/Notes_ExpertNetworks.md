@@ -8,7 +8,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • Natural Langu
 
 I’m an AI advisor based in Pune, India, with expertise in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, and Generative AI. I help organizations design and refine their AI solutions and strategies, offering technical guidance that focuses on turning AI potential into practical, measurable outcomes.
 
-A key focus area for me is **Retrieval-Augmented Generation (RAG)**—essentially building ChatGPT-like systems that answer questions using private data. My work spans complex documents, multimodal inputs, semantic chunking, evaluation metrics, production considerations, and system design. I also work across related tasks such as combo queries, text-to-SQL, vision LLMs, small LMs, and converting user queries into tool calls or test cases. This niche has grown out of hands-on experience and continuous learning, and has become my core area of interest.
+A key focus area for me is **Retrieval-Augmented Generation (RAG)**, essentially building ChatGPT-like systems that answer questions using private data. My work spans complex documents, multimodal inputs, semantic chunking, evaluation metrics, production considerations, and system design. I also work across related tasks such as combo queries, text-to-SQL, vision LLMs, small LMs, and converting user queries into tool calls or test cases. This niche has grown out of hands-on experience and continuous learning, and has become my core area of interest.
 
 ## **Background**
 
