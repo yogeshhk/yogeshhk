@@ -1,4 +1,4 @@
-# Gen AI Consultancy Exploratory Call Agenda
+# Gen AI Consultancy Exploratory Checklist
 
 Discuss to gather following information:
 
