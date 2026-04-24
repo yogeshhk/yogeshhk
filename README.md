@@ -5,7 +5,7 @@
 ### 🤖 AI Advisory Services
 I run an Artificial Intelligence (AI) advisory service in the following modes:
 
-* **Consultancy**: Helping organizations in the evolving AI landscape. Also a part of [Expert Networks](./domains/Notes_ExpertNetworks.md). 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md).
+* **Consultancy**: Helping organizations in the evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md).
 * **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
 * **Recruitment**: Helping organizations in hiring pre-screened candidates with AI skills. 👉 More details (including commercials) [here](./domains/Notes_AIRecruitment.md)
 
