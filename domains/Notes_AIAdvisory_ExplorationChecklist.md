@@ -12,7 +12,7 @@ Discuss to gather following information:
 
 * Do you have a 1-year AI roadmap? How fixed or flexible is it?
 * Any prioritized use cases (e.g., chatbots, agents, automation, analytics)?
-* What’s driving prioritization—cost savings, efficiency, customer experience, etc.?
+* What’s driving prioritization (cost savings, efficiency, customer experience, etc.)?
 
 ### 👥 **Stakeholders & Teams**
 

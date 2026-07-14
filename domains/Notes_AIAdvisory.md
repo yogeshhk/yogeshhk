@@ -16,7 +16,7 @@ To ensure effective collaboration, your organization should have an in-house Dat
 ## Engagement Model
 
 ### 🤝 Time-line modes
-- **Pilot Phase:** A one-month paid trial to assess compatibility and alignment. Gather high-level requirements as detailed [here](./Notes_AIAdvisory_explore.md)
+- **Pilot Phase:** A one-month paid trial to assess compatibility and alignment. Gather high-level requirements as detailed [here](./Notes_AIAdvisory_ExplorationChecklist.md)
 - **Annual Contract:** Yearly retainership, contingent on a successful pilot phase.
 
 ### ⏰ Time Commitment & Charges
