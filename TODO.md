@@ -7,5 +7,5 @@ its own phases of work. No dedicated sub-project TODOs to index.
 
 - Keep the AI Advisory / Research / Social Contributions links current as offerings, talks, or
   external links (Medium, YouTube, LinkedIn posts) change.
-- Cross-links to `TeachingDataScience`, `MidcurveNN`, and the Yoga Sutra work under `Sarvadnya`
+- Cross-links to `TeachingDataScience`, `MidcurveNN`, and the Yoga Sutra work (in `BharatVidya/YogaShastra/YogaSutra/`)
   should stay in sync with those repos' own current status (see their TODO.md/README.md).
