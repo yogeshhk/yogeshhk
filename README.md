@@ -20,6 +20,7 @@ I actively engage in personal research and collaborations with academic and indu
   I am currently looking for **MS / PhD students** to take this further — the open problem is
   predicting geometry natively as graphs, where node positions can be learned but topology so far
   cannot. [Two-page topic proposal](https://github.com/yogeshhk/MidcurveNN/blob/master/publications/Midcurve_LaTeX/Main_TwoPager_MidcurveNN_GeometryResearch.pdf).
+* ✅ **Frugal AI** Small models on low-resource hardware: benchmarks and recipes (public, MIT), at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
 
 ### 📚 Books and Course Material
 * **Books** I write and self-publish. Sources and drafts live in [`Publications`](https://github.com/yogeshhk/Publications) — currently an Artificial Intelligence / Mental Models / Game Theory trilogy, plus **AI-Rupe**, a collection of my Marathi AI articles (available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/)).
