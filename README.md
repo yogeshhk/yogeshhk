@@ -28,13 +28,13 @@ I run an Artificial Intelligence (AI) advisory service in the following modes:
 I actively engage in personal research and collaborations with academic and industry partners on topics such as:
 * ✅ **Geometric Deep Learning**
   Creating invariant representations for dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN).
-  I am currently looking for **MS / PhD students** to take this further — the open problem is
+  I am currently looking for **MS / PhD students** to take this further: the open problem is
   predicting geometry natively as graphs, where node positions can be learned but topology so far
   cannot. [Two-page topic proposal](https://github.com/yogeshhk/MidcurveNN/blob/master/publications/Midcurve_LaTeX/Main_TwoPager_MidcurveNN_GeometryResearch.pdf).
 * ✅ **Frugal AI** Small models on low-resource hardware: benchmarks and recipes (public, MIT), at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
 
 ### 📚 Books and Course Material
-* **Books** I write and self-publish. Sources and drafts live in [`Publications`](https://github.com/yogeshhk/Publications) — currently an Artificial Intelligence / Mental Models / Game Theory trilogy, plus **AI-Rupe**, a collection of my Marathi AI articles (available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/)).
+* **Books** I write. Sources and drafts live in [`Publications`](https://github.com/yogeshhk/Publications): a Marathi trilogy with Sakal Prakashan (Artificial Intelligence, Mental Models, Game Theory), an English book, *Practical Game Theory*, with Apress, plus self-published **AI-Rupe**, a collection of my Marathi AI articles (available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/)).
 * **Data Science / AIML** Open-sourced teaching material at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
 * **Quantum Technologies** Course material (LaTeX + LMS content) at [`TeachingQuantumTech`](https://github.com/yogeshhk/TeachingQuantumTech).
 * **Indian Knowledge Systems** A completed study archive, including a full Patanjali Yoga Sutra seminar system (1 workshop + 6 seminars with cheat sheets), at [`BharatVidya`](https://github.com/yogeshhk/BharatVidya).
