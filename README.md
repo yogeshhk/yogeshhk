@@ -4,6 +4,17 @@
 data science and quantum technologies, write books in Marathi and English, and do independent
 research on geometric deep learning.
 
+I teach hard topics (quantum technologies, strategy and game theory, small-model AI) to non-specialists, with a book and
+a workshop behind each.
+
+## Focus for 2027
+
+* **Quantum computing:** workshops on quantum computing with Qiskit, quantum-safe cryptography and, later, quantum
+  optimization, built on the open course material in [`TeachingQuantumTech`](https://github.com/yogeshhk/TeachingQuantumTech).
+* **Game theory:** the Marathi and English books, and workshops that turn them into practice.
+* **Frugal AI:** small models on everyday hardware, with student projects, at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
+* **Personal:** the study and practice of the Yoga Sutra and Yoga Nidra.
+
 ## I am involved in:
 
 ### 🤖 AI Advisory Services
