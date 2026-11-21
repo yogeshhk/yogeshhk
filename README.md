@@ -35,7 +35,7 @@ I strongly believe in giving back to society and raising public awareness about 
 * 📫 **LinkedIn** I regularly post about AI/ML and related topics. I’d love it if you [follow me](https://www.linkedin.com/in/yogeshkulkarni/) there. 😊
 * ⚡ **Medium Blogs**  Read or follow my writings [here](https://yogeshharibhaukulkarni.medium.com/)
 * 🎤 **Public Talks**  I speak at various forums and events. Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLaTX75s8-K31QUTU1h12Tzjuxl5nXjAG7) of talks.
-* 🌱 **Frugal AI Student Internships** Engineering students work on small models for everyday, low-resource hardware, with the benchmarks and recipes shared openly (public, MIT) at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
+* 🌱 **Frugal AI Student Internships** Small AI models for India-Social applications on low-resource hardware, at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
 
 Feel free to reach out via email at: `my firstnamelastname at yahoo dot com`
 
