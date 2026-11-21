@@ -1,19 +1,8 @@
 # Hi <img src="./images/Hi.gif" width="30px"> I'm Yogesh
 
 **AI advisor, trainer and researcher.** I help organizations and individuals navigate AI, teach
-data science and quantum technologies, write books in Marathi and English, and do independent
+data science, write books in Marathi and English, and do independent
 research on geometric deep learning.
-
-I teach hard topics (quantum technologies, strategy and game theory, small-model AI) to non-specialists, with a book and
-a workshop behind each.
-
-## Focus for 2027
-
-* **Quantum computing:** workshops on quantum computing with Qiskit, quantum-safe cryptography and, later, quantum
-  optimization, built on the open course material in [`TeachingQuantumTech`](https://github.com/yogeshhk/TeachingQuantumTech).
-* **Game theory:** the Marathi and English books, and workshops that turn them into practice.
-* **Frugal AI:** small models on everyday hardware, with student projects, at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
-* **Personal:** the study and practice of the Yoga Sutra and Yoga Nidra.
 
 ## I am involved in:
 
@@ -36,7 +25,6 @@ I actively engage in personal research and collaborations with academic and indu
 ### 📚 Books and Course Material
 * **Books** I write. Sources and drafts live in [`Publications`](https://github.com/yogeshhk/Publications): a Marathi trilogy with Sakal Prakashan (Artificial Intelligence, Mental Models, Game Theory), an English book, *Practical Game Theory*, with Apress, plus self-published **AI-Rupe**, a collection of my Marathi AI articles (available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/)).
 * **Data Science / AIML** Open-sourced teaching material at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
-* **Quantum Technologies** Course material (LaTeX + LMS content) at [`TeachingQuantumTech`](https://github.com/yogeshhk/TeachingQuantumTech).
 * **Indian Knowledge Systems** A completed study archive, including a full Patanjali Yoga Sutra seminar system (1 workshop + 6 seminars with cheat sheets), at [`BharatVidya`](https://github.com/yogeshhk/BharatVidya).
 
 ### 🙌 Social Contributions (Pro Bono)
@@ -47,7 +35,7 @@ I strongly believe in giving back to society and raising public awareness about 
 * 📫 **LinkedIn** I regularly post about AI/ML and related topics. I’d love it if you [follow me](https://www.linkedin.com/in/yogeshkulkarni/) there. 😊
 * ⚡ **Medium Blogs**  Read or follow my writings [here](https://yogeshharibhaukulkarni.medium.com/)
 * 🎤 **Public Talks**  I speak at various forums and events. Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLaTX75s8-K31QUTU1h12Tzjuxl5nXjAG7) of talks.
-* 🧑‍🏫 **Advisory** Internship for eng students, aspirants of 'Road to GDE (Google Developer Expert)', and member of BoS (Board of Studies)
+* 🌱 **Frugal AI Student Internships** Engineering students work on small models for everyday, low-resource hardware, with the benchmarks and recipes shared openly (public, MIT) at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
 
 Feel free to reach out via email at: `my firstnamelastname at yahoo dot com`
 
