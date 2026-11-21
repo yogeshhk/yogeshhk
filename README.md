@@ -22,7 +22,7 @@ I actively engage in personal research and collaborations with academic and indu
 * **Mental Models** (Marathi, Sakal Prakashan, 2026): [Sakal Publications](https://sakalpublications.com/products/mental-models) | [Amazon India](https://www.amazon.in/Mental-Models-Powerful-Frameworks-Decision-Making/dp/B0H3BX5BRT).
 * **Game Theory** (Marathi, Sakal Prakashan): Sakal Publications and Amazon India links coming soon, to be published.
 * **AI-Rupe** (Marathi, self-published, Notion Press): [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7) | [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti) | [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/).
-* **Data Science / AIML course material:** open-sourced teaching material (Python, Machine Learning, Deep Learning and more) at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
+* **Data Science / AIML course material:** open-sourced AI related teaching material (Python, ML, DL, NLP and more) at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
