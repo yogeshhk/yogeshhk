@@ -29,7 +29,7 @@ I actively engage in personal research and collaborations with academic and indu
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
-* 🧑‍🏫 **Pune AI Community** Social group dedicated to disseminating AI-related knowledge, both online and offline (Pune) [website](http://puneaicommunity.org/), [GitHub](https://github.com/puneaicommunity/puneaicommunity).
+* 🧑‍🏫 **Pune AI Community** Social group dedicated to disseminating AI-related knowledge, online/offline (Pune) [website](http://puneaicommunity.org/), [GitHub](https://github.com/puneaicommunity/puneaicommunity).
 * 👯 **Mid-Career Transition Counseling (to Data Science)**. [My Story](https://www.youtube.com/watch?v=IQzWosVzkM4) | [TEDx Talk](https://www.youtube.com/watch?v=-VbWRs7BsPY) | [Path](https://www.youtube.com/watch?v=-_8i6IQz8l8)
 * 💬 **Open Office Hours** Saturdays, 1:30–3:30 PM IST, for technical or career coaching.
 * 📫 **LinkedIn** I regularly post about AI/ML and related topics. I’d love it if you [follow me](https://www.linkedin.com/in/yogeshkulkarni/) there. 😊
