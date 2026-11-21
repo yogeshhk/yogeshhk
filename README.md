@@ -10,22 +10,19 @@ research on geometric deep learning.
 I run an Artificial Intelligence (AI) advisory service in the following modes:
 
 * **Consultancy**: Helping organizations in the evolving AI landscape. 👉 More details (including commercials) [here](./domains/Notes_AIAdvisory.md).
-* **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md). The educational content used in training, covering Python, Machine Learning, Deep Learning, etc., has been open-sourced in the [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience) repository.
-* **Recruitment**: Helping organizations in hiring pre-screened candidates with AI skills. 👉 More details (including commercials) [here](./domains/Notes_AIRecruitment.md)
+* **Training**: Helping individuals stay current with AI, ML, NLP, etc.  👉 More details (including commercials) [here](./domains/Notes_AITraining.md).* **Recruitment**: Helping organizations in hiring pre-screened candidates with AI skills. 👉 More details (including commercials) [here](./domains/Notes_AIRecruitment.md)
 
 ### 🔬 Research and Collaboration
-I actively engage in personal research and collaborations with academic and industry partners on topics such as:
-* ✅ **Geometric Deep Learning**
-  Creating invariant representations for dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN).
-  I am currently looking for **MS / PhD students** to take this further: the open problem is
-  predicting geometry natively as graphs, where node positions can be learned but topology so far
-  cannot. [Two-page topic proposal](https://github.com/yogeshhk/MidcurveNN/blob/master/publications/Midcurve_LaTeX/Main_TwoPager_MidcurveNN_GeometryResearch.pdf).
-* ✅ **Frugal AI** Small models on low-resource hardware: benchmarks and recipes (public, MIT), at [`FrugalAI`](https://github.com/yogeshhk/FrugalAI).
+I actively engage in personal research and collaborations with academic and industry partners on the topic of **Geometric Deep Learning**: Creating invariant representations for dimensionality reduction, see [MidcurveNN](https://github.com/yogeshhk/MidcurveNN).
+  I am currently looking for **MS / PhD students** to take this further: the open problem is predicting geometry natively as graphs, where node positions can be learned but topology so far cannot. [Two-page topic proposal](https://github.com/yogeshhk/MidcurveNN/blob/master/publications/Midcurve_LaTeX/Main_TwoPager_MidcurveNN_GeometryResearch.pdf).
 
 ### 📚 Books and Course Material
-* **Books** I write. Sources and drafts live in [`Publications`](https://github.com/yogeshhk/Publications): a Marathi trilogy with Sakal Prakashan (Artificial Intelligence, Mental Models, Game Theory), an English book, *Practical Game Theory*, with Apress, plus self-published **AI-Rupe**, a collection of my Marathi AI articles (available at [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7), [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti), [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/)).
-* **Data Science / AIML** Open-sourced teaching material at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
-* **Indian Knowledge Systems** A completed study archive, including a full Patanjali Yoga Sutra seminar system (1 workshop + 6 seminars with cheat sheets), at [`BharatVidya`](https://github.com/yogeshhk/BharatVidya).
+* **Practical Game Theory for Real-World Decisions** (English, Apress, Springer Nature): [eBook on Springer Link](https://link.springer.com/book/10.1007/979-8-8688-3171-3).
+* **Artificial Intelligence** (Marathi, Sakal Prakashan, 2026): [Sakal Publications](https://sakalpublications.com/products/artificial-intelligence) | [Amazon India](https://www.amazon.in/Artificial-Intelligence-AI-Understanding-Technology/dp/8169355877).
+* **Mental Models** (Marathi, Sakal Prakashan, 2026): [Sakal Publications](https://sakalpublications.com/products/mental-models) | [Amazon India](https://www.amazon.in/Mental-Models-Powerful-Frameworks-Decision-Making/dp/B0H3BX5BRT).
+* **Game Theory** (Marathi, Sakal Prakashan): Sakal Publications and Amazon India links coming soon, to be published.
+* **AI-Rupe** (Marathi, self-published, Notion Press): [Amazon India](https://www.amazon.in/dp/B0FB37F7Z7) | [Flipkart](https://www.flipkart.com/ai-rupe/p/itm8e9a8104bed35?pid=9798899613739&affid=editornoti) | [Notion Press](https://direct.notionpress.com/in/read/ai-rupe/).
+* **Data Science / AIML course material:** open-sourced teaching material (Python, Machine Learning, Deep Learning and more) at [`TeachingDataScience`](https://github.com/yogeshhk/TeachingDataScience).
 
 ### 🙌 Social Contributions (Pro Bono)
 I strongly believe in giving back to society and raising public awareness about AI through:
