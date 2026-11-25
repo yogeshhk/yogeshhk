@@ -1,3 +1,3 @@
 # TODO: yogeshhk
 
-- [ ] Add the buy links for the Sakal and Apress books to the Books line of `README.md` once they are live.
+- [ ] Once the Sakal Game Theory (Marathi) book is live, add a line for it to the Books list in `README.md` (Marathi, Sakal Prakashan) with the Sakal Publications and Amazon India links.
